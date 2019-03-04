@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1864695932",
+    "firebase_url": "https://paymentapp-2394aj.firebaseio.com",
+    "project_id": "paymentapp-2394aj",
+    "storage_bucket": "paymentapp-2394aj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1864695932:android:defe66e0eaca9e7d",
+        "android_client_info": {
+          "package_name": "com.a629258.paymentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1864695932-ltutiu2flhakt10ik3vmremriors49cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UHw4gjhM00sRagdS1ngMM3GY7AW5o4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
